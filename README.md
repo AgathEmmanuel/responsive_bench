@@ -13,7 +13,7 @@ Responsive layouts fit to a user's screen size. They don't change element positi
 
 Adaptive layouts fit to user screen size as well but according to screen size, elements change position to fit the screen using media queries.
 
-### References
+### Sources
 
 * [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://youtu.be/srvUrASNj0s).
 * [Powerful Techniques For Responsive Web Design](https://webdevblog.com/responsive-web-design-techniques/).
